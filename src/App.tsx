@@ -73,8 +73,8 @@ const PAYMENT_DATA = [
     bg: "bg-violet-50/50",
     border: "border-violet-100",
     members: [
-      { name: "মোঃ রাফিদ", method: "bkash", phone: "01618465221" },
-      { name: "মুনিয়া আঞ্জুমাহ্", method: "bkash", phone: "01797789334" },
+      { name: "মোঃ রাফিদ", method: "bkash", phone: "01797789334" },
+      { name: "মুনিয়া আঞ্জুমাহ্", method: "bkash", phone: "01521763913" },
       { name: "নাঈমুল ইসলাম নোমান", method: "bkash", phone: "01851932839" },
       { name: "শারমিন আহমেদ", method: "bkash", phone: "01634870433" },
     ]
