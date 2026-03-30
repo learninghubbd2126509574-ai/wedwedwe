@@ -107,6 +107,7 @@ const PAYMENT_DATA = [
       { name: "ফারহানা আক্তার ফারিহা", method: "nagad", phone: "01622752742" },
       { name: "মারিয়া আক্তার", method: "nagad", phone: "01833558487" },
       { name: "মাসুমা আক্তার", method: "bkash", phone: "01753301618" },
+      { name: "মোঃরিজবী", method: "nagad", phone: "01643597054" },
     ]
   }
 ];
@@ -254,7 +255,7 @@ export default function App() {
                 Verified Payment Methods
               </motion.div>
               <h1 className="text-4xl md:text-5xl font-black text-slate-900 leading-tight tracking-tight">
-                Unity E-earning <br />
+                Unity Earning <br />
                 <span className="text-indigo-600">E-learning Platform</span>
               </h1>
             </div>
@@ -371,7 +372,7 @@ export default function App() {
                 </a>
               </div>
               <div className="text-slate-500 text-sm font-bold uppercase tracking-widest">
-                © 2026 Unity E-learning. All rights reserved.
+                © 2026 Unity Earning. All rights reserved.
               </div>
             </div>
           </div>
